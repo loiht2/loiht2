@@ -1,20 +1,20 @@
-# Hello World! I'm Thanh-Loi Hoang 👋
+## Hi, I'm Loi
 
-# 💫 About Me:
-🚀 Focus: Cloud Computing | Multi-Cluster Management | Software-Defined Networking<br>📍 Location: Seoul, South Korea (from Hai Duong, Vietnam)<br>💼 Work: Research Assistant @ Soongsil University<br>🎓 Education:<br>  • Master’s Student @ Soongsil University (current)<br>  • Bachelor’s Degree @ Vietnam National University
+Graduate Research Engineer · Software Engineer
 
+I work on the GPU layer underneath Kubernetes AI workloads. GPUs are the scarcest resource in a cluster and the hardest to divide well, so the work runs across three connected problems: sharing one device between workloads, scheduling those workloads onto hardware that suits them, and making GPU behavior visible once they are running.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanh-loi-hoang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loi.hoangthanh.24@gmail.com) 
+I'm at the Cloud Native x AI Laboratory in Seoul, building the ML platform and researching how GPUs are shared and scheduled across heterogeneous hardware, and how their usage is monitored and profiled per workload. I'm an Integrated M.S.-Ph.D. student at Soongsil University.
 
-# 💻 Tech Stack:
-![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=loiht2&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=loiht2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=loiht2&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### Background
 
----
-[![](https://visitcount.itsvg.in/api?id=loiht2&icon=0&color=0)](https://visitcount.itsvg.in)
+Kubernetes since 2024, AI infrastructure since 2025. Before Seoul I was a system engineer in Hanoi, deploying OpenShift clusters for banking environments and designing VMware virtualization architectures with customers. Earlier, as a student researcher, I worked on SDN, network devices, and OpenStack.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I learn a system by standing it up and watching it, and I'm comfortable at the layer where the abstractions leak.
+
+### Connect
+
+- Website: https://loiht2.vercel.app
+- Google Scholar: https://scholar.google.com/citations?user=IBjLpp8AAAAJ
+- LinkedIn: https://linkedin.com/in/loiht2
+- Email: loi.hoangthanh.24@gmail.com
